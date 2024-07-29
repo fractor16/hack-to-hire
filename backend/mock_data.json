@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "flight": "AA123",
+        "status": "On Time",
+        "gate": "A1"
+    },
+    {
+        "id": 2,
+        "flight": "BA456",
+        "status": "Delayed",
+        "gate": "B2"
+    }
+]
